@@ -31,7 +31,7 @@ The following table summarizes the key timing metrics, comparing the idealized p
 
 ## Physical Design (Layout)
 The custom layout was routed and checked. 
-
+<img width="1143" height="1183" alt="DFF" src="https://github.com/user-attachments/assets/3ed68c03-bd05-4b1b-9aea-a1968c5f795c" />
 * **Total Area:** 117.6786 µm² ($9.63 \times 12.22$) 
 * **Design Rule Check (DRC):** Passed with 0 violations.
 * **Layout Versus Schematic (LVS):** Passed (CORRECT).
